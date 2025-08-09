@@ -20,4 +20,8 @@ wget -q https://raw.githubusercontent.com/AxFrds/AutoScript-V2RAY-XRAY/master/se
 ### Port
 - WS TLS: 443
 - WS HTTP/NonTLS: 80
-- gRLC: 443
+- gRPC: 443
+
+### Core
+- [V2Ray](https://github.com/v2fly/v2ray-core)
+- [Xray](https://github.com/XTLS/Xray-core)
