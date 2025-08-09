@@ -2,5 +2,5 @@
 
 ### Installation
 ```
-apt-get update -y && apt-get upgrade -y && apt-get install wget -y && wget https://raw.githubusercontent.com/AxFrds/AutoScript-V2RAY-XRAY/master/setup.sh && chmod +x setup.sh && ./setup.sh
+apt-get update -y && apt-get upgrade -y && apt-get install wget -y && wget -q https://raw.githubusercontent.com/AxFrds/AutoScript-V2RAY-XRAY/master/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
