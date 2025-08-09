@@ -27,6 +27,6 @@ wget -q https://raw.githubusercontent.com/AxFrds/AutoScript-V2RAY-XRAY/master/se
 - [Xray](https://github.com/XTLS/Xray-core)
 
 ### Notes
-- This script is free
+- This script is FREE
 - To register an IP, [contact me](https://t.me/AxFrds)
 - Cannot add Shadowsocks client on V2Ray core, only support Xray core
