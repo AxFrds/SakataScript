@@ -12,19 +12,12 @@ wget -q https://raw.githubusercontent.com/AxFrds/AutoScript-V2RAY-XRAY/master/se
 ```
 
 ### Requirements
-Operating System
-- Debian
-- Ubuntu
-
-Virtualization
-- KVM
-
-User
-- Root
-
-Certificate SSL
-- Put cert in /etc/xray/cert/cert.crt
-- Put key in /etc/xray/cert/cert.key
+- Debian or Ubuntu OS
+- KVM virtualization
+- Root access
+- Valid Certificate SSL
+ - Put cert in /etc/xray/cert/cert.crt
+ - Put key in /etc/xray/cert/cert.key
 
 ### Features
 - Vmess WS & gRPC
