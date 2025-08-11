@@ -11,10 +11,16 @@ Install / Update core
 wget -q https://raw.githubusercontent.com/AxFrds/AutoScript-V2RAY-XRAY/master/setup.sh && chmod +x setup.sh && ./setup.sh && rm -f setup.sh
 ```
 
-### Supports OS
-Tested
-- Ubuntu 24.04
-- Debian 12
+### Requirements
+Operating System
+- Debian
+- Ubuntu
+
+Virtualization
+- KVM
+
+User
+- root
 
 ### Features
 - Vmess WS & gRPC
