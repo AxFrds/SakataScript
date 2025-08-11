@@ -22,6 +22,10 @@ Virtualization
 User
 - root
 
+Certificate SSL
+- Put cert in /etc/xray/cert/cert.crt
+- Put key in /etc/xray/cert/cert.key
+
 ### Features
 - Vmess WS & gRPC
 - Vless WS & gRPC
