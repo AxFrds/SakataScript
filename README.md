@@ -12,7 +12,7 @@ wget -q https://raw.githubusercontent.com/AxFrds/AutoScript-V2RAY-XRAY/master/se
 ```
 
 ### Requirements
-- Debian or Ubuntu OS
+- Debian 12 / Ubuntu 24.04 or higher
 - KVM virtualization
 - Root access
 - Valid domain name
