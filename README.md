@@ -15,6 +15,7 @@ wget -q https://raw.githubusercontent.com/AxFrds/AutoScript-V2RAY-XRAY/master/se
 - Debian or Ubuntu OS
 - KVM virtualization
 - Root access
+- Valid domain name
 - Valid Certificate SSL (put cert.crt & cert.key in /etc/xray/cert/)
 
 ### Features
