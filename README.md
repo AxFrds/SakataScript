@@ -20,7 +20,7 @@ Virtualization
 - KVM
 
 User
-- root
+- Root
 
 Certificate SSL
 - Put cert in /etc/xray/cert/cert.crt
