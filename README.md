@@ -1,7 +1,7 @@
 # Simple AutoScript V2Ray & Xray core
 <p align="center">
   <a href="https://github.com/AxFrds/SakataScript" target="_blank" rel="noopener noreferrer" >
-    <img src="https://raw.githubusercontent.com/AxFrds/SakataScript/master/screenshot/IMG_20250811_192357.jpg" alt="SakataScript screenshot" width="600" height="auto">
+    <img src="https://raw.githubusercontent.com/AxFrds/SakataScript/master/screenshot/IMG_20250814_012044.jpg" alt="SakataScript screenshot" width="600" height="auto">
   </a>
 </p>
 
