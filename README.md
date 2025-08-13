@@ -24,10 +24,10 @@ wget -q https://raw.githubusercontent.com/AxFrds/AutoScript-V2RAY-XRAY/master/se
 - Valid Certificate SSL (put cert.crt & cert.key in /etc/xray/cert/)
 
 ### Features
-- Vmess WS & gRPC
-- Vless WS & gRPC
-- Trojan WS & gRPC
-- Shadowsocks WS & gRPC
+- Vmess WS, gRPC & HTTPUpgrade
+- Vless WS, gRPC & HTTPUpgrade
+- Trojan WS, gRPC & HTTPUpgrade
+- Shadowsocks WS, gRPC & HTTPUpgrade
 
 ### Port
 - WS TLS: 443
@@ -41,4 +41,5 @@ wget -q https://raw.githubusercontent.com/AxFrds/AutoScript-V2RAY-XRAY/master/se
 ### Notes
 - This script is FREE
 - To register an IP, [contact me](https://t.me/AxFrds)
+- V2Ray core does not support HTTPUpgrade
 - Cannot add Shadowsocks client on V2Ray core, only support Xray core
