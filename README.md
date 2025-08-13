@@ -33,6 +33,7 @@ wget -q https://raw.githubusercontent.com/AxFrds/AutoScript-V2RAY-XRAY/master/se
 - WS TLS: 443
 - WS HTTP/NonTLS: 80
 - gRPC: 443
+- HTTPUpgrade: 443
 
 ### Core
 - [V2Ray](https://github.com/v2fly/v2ray-core)
