@@ -16,6 +16,9 @@ apt-get update -y && apt-get upgrade -y && apt-get install wget -y
 wget -q https://raw.githubusercontent.com/AxFrds/AutoScript-V2RAY-XRAY/master/setup.sh && chmod +x setup.sh && ./setup.sh && rm -f setup.sh
 ```
 
+### Usage
+- menu: Show panel menu
+
 ### Requirements
 - Debian 12 / Ubuntu 24.04 or higher
 - KVM virtualization
