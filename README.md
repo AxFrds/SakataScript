@@ -6,7 +6,7 @@
 </p>
 
 ### Installation
-**First time to install (Deb based)**
+**First time to install (DEB based)**
 ```
 apt-get update -y && apt-get upgrade -y && apt-get install wget -y
 ```
