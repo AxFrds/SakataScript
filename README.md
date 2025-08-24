@@ -6,9 +6,14 @@
 </p>
 
 ### Installation
-**First time to install**
+**First time to install (Deb based)**
 ```
 apt-get update -y && apt-get upgrade -y && apt-get install wget -y
+```
+
+**First time to install (RHEL based)**
+```
+yum upgrade -y && yum install wget -y
 ```
 
 **Install / Update core**
