@@ -6,14 +6,9 @@
 </p>
 
 ### Installation
-**First time to install (DEB based)**
+**First time to install**
 ```
 apt-get update -y && apt-get upgrade -y && apt-get install wget -y
-```
-
-**First time to install (RHEL based)**
-```
-yum upgrade -y && yum install wget -y
 ```
 
 **Install / Update core**
@@ -25,7 +20,7 @@ wget -q https://raw.githubusercontent.com/AxFrds/SakataScript/master/setup && ch
 - menu: Show panel menu
 
 ### Requirements
-- Debian 12 / Ubuntu 24.04 or higher
+- Debian 12 / Ubuntu 22.04 or higher
 - KVM virtualization
 - Root access
 - Valid domain name
