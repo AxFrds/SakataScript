@@ -20,10 +20,10 @@ wget -q https://raw.githubusercontent.com/AxFrds/SakataScript/master/setup && ch
 - menu: Show panel menu
 
 ### Support OS
-**Recommended to use the latest OS version**
 - Debian based (Debian/Ubuntu)
 - RHEL based (AlmaLinux/Rocky Linux/CentOS/Fedora)
 - openSUSE
+- Recommended to use the latest OS version!
 
 ### Requirements
 - x86_64 architecture
