@@ -21,7 +21,7 @@ yum upgrade -y && yum install wget -y
 zypper refresh && zypper update -y && zypper install -y wget
 ```
 
-**Install / Update core**
+**Install script / Update core**
 ```
 wget -q https://raw.githubusercontent.com/AxFrds/SakataScript/master/setup && chmod +x setup && ./setup && rm -f setup
 ```
