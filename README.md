@@ -19,8 +19,13 @@ wget -q https://raw.githubusercontent.com/AxFrds/SakataScript/master/setup && ch
 ### Usage
 - menu: Show panel menu
 
+### Support OS
+**Recommended to use the latest OS version**
+- Debian based (Debian/Ubuntu)
+- RHEL based (AlmaLinux/Rocky Linux/CentOS/Fedora)
+- openSUSE
+
 ### Requirements
-- Debian 12 / Ubuntu 22.04 or higher
 - x86_64 architecture
 - KVM virtualization
 - Root access server
