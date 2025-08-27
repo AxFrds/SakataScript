@@ -6,9 +6,19 @@
 </p>
 
 ### Installation
-**First time to install**
+**First time to install (Debian Based**
 ```
 apt-get update -y && apt-get upgrade -y && apt-get install wget -y
+```
+
+**First time to install (RHEL Based)**
+```
+yum upgrade -y && yum install wget -y
+```
+
+**First time to install (openSUSE)**
+```
+zypper refresh && zypper update -y && zypper install -y wget
 ```
 
 **Install / Update core**
