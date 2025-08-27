@@ -49,10 +49,11 @@ wget -q https://raw.githubusercontent.com/AxFrds/SakataScript/master/setup && ch
 - Shadowsocks WS, gRPC & HTTPUpgrade
 
 ### Port
-- WS TLS: 443
-- WS HTTP/NonTLS: 80
-- gRPC: 443
-- HTTPUpgrade: 443
+- WebSocket TLS: 443
+- WebSocket HTTP/NonTLS: 80
+- HTTPUpgrade TLS: 443
+- HTTPUpgrade HTTP/NonTLS: 80
+- gRPC (only TLS): 443
 
 ### Core
 - [V2Ray](https://github.com/v2fly/v2ray-core)
