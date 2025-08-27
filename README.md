@@ -21,8 +21,9 @@ wget -q https://raw.githubusercontent.com/AxFrds/SakataScript/master/setup && ch
 
 ### Requirements
 - Debian 12 / Ubuntu 22.04 or higher
+- x86_64 architecture
 - KVM virtualization
-- Root access
+- Root access server
 - Valid domain name
 - Valid Certificate SSL (put cert.crt & cert.key in /etc/xray/cert/)
 
