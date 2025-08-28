@@ -6,7 +6,7 @@
 </p>
 
 ### Installation
-**First time to install (Debian Based**
+**First time to install (Debian Based)**
 ```
 apt-get update -y && apt-get upgrade -y && apt-get install wget -y
 ```
@@ -32,7 +32,7 @@ wget -q https://raw.githubusercontent.com/AxFrds/SakataScript/master/setup && ch
 ### Support OS
 - Debian based (Debian/Ubuntu)
 - RHEL based (AlmaLinux/Rocky Linux/CentOS/Fedora)
-- openSUSE
+- SUSE Linux (openSUSE)
 - Recommended to use the latest OS version!
 
 ### Requirements
