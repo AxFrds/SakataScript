@@ -55,6 +55,12 @@ wget -q https://raw.githubusercontent.com/AxFrds/SakataScript/master/setup && ch
 - HTTPUpgrade HTTP/NonTLS: 80
 - gRPC (only TLS): 443
 
+### Log
+- /etc/log-create-vmess.log
+- /etc/log-create-vless.log
+- /etc/log-create-trojan.log
+- /etc/log-create-shadowsocks.log
+
 ### Core
 - [V2Ray](https://github.com/v2fly/v2ray-core)
 - [Xray](https://github.com/XTLS/Xray-core)
